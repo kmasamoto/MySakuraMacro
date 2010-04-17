@@ -1,0 +1,2 @@
+s = GetLineStr(1)
+S_ExecCommand(s + "\"$F\"", )
